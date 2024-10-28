@@ -60,6 +60,7 @@ h1{
 
 .THREE:hover{
     background-color: hsl(75, 94%, 57%);
+    color: black;
 }
 
 .FOUR{
